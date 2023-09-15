@@ -1,0 +1,9 @@
+this is an alx respiratory created by me today
+Initialize sum to 0
+Repeat
+    Input a number from the user
+    If the number is negative
+        Exit loop
+    Add the number to the sum
+End Repeat
+Output "The final result is: " + sum
